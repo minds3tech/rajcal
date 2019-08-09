@@ -1,0 +1,61 @@
+{
+	"08": {
+		"2019-08-01": [{
+			"title": "अमावस्या",
+			"type": "hinduCalEvent",
+			"holiday": false
+		}],
+		"2019-08-11": [{
+			"title": "एकादशी",
+			"type": "hinduCalEvent",
+			"holiday": false
+		}],
+		"2019-08-12": [{
+				"title": "प्रदोष",
+				"type": "hinduCalEvent",
+				"holiday": true
+			},
+			{
+				"title": "ईद-उल-जुहा",
+				"type": "festival",
+				"holiday": true
+			}
+		],
+		"2019-08-15": [{
+				"title": "पूर्णिमा",
+				"type": "hinduCalEvent",
+				"holiday": true
+			},
+			{
+				"title": "रक्षाबंधन",
+				"type": "festival",
+				"holiday": true
+			},
+			{
+				"title": "स्वतंत्रता दिवस",
+				"type": "festival",
+				"holiday": true
+			}
+		],
+		"2019-08-24": [{
+			"title": "जन्माष्टमी",
+			"type": "festival",
+			"holiday": true
+		}],
+		"2019-08-26": [{
+			"title": "एकादशी",
+			"type": "hinduCalEvent",
+			"holiday": false
+		}],
+		"2019-08-28": [{
+			"title": "प्रदोष",
+			"type": "hinduCalEvent",
+			"holiday": false
+		}],
+		"2019-08-30": [{
+			"title": "अमावस्या",
+			"type": "hinduCalEvent",
+			"holiday": false
+		}]
+	}
+}
